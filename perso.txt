@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 user locale 
 user10
+=======
+user 1 test
+user2
+>>>>>>> 638a3eb7586cb8ab7cb18586ffdd53242916583f
